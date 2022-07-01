@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pressure-backend.iml" filepath="$PROJECT_DIR$/.idea/pressure-backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pressure-chrome-extension.iml" filepath="$PROJECT_DIR$/.idea/pressure-chrome-extension.iml" />
     </modules>
   </component>
 </project>
